@@ -1,6 +1,6 @@
 Postman_1
 
-[Completed task](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection)
+[Response from the server](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection)
 
 ```
 Создать запросы в Postman.
@@ -140,4 +140,4 @@ response:
           }
 ```
 
-[Completed task](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection) | [Back](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/)
+[Response from the server](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection) | [Back](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/)
