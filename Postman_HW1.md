@@ -1,6 +1,8 @@
-Postman.
-HW_1
+Postman_1
 
+[Completed task](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection)
+
+```
 Создать запросы в Postman.
 
 Protocol: http
@@ -136,3 +138,6 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }
+```
+
+[Completed task](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection) | [Back](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/)
